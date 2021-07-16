@@ -2,7 +2,7 @@
 - 👀 I’m interested in trusted computing, Ipv6 security, and relevant standard group like IETF Rats and Teep.
 - 🌱 I’m currently working in China Mobile Research Institute, security department.
 - 💞️ I’m looking to collaborate on standard editing and draft proposol.
-- 📫 You can reach me in github.
+- 📫 You can reach me in yangpenglin@chinamobile.com or ypl_helloworld@163.com(personal account)
 
 <!---
 PenglinYang-CMCC/PenglinYang-CMCC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
